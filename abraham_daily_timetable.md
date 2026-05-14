@@ -72,9 +72,15 @@
 
 | Tracker | Items | Key Action Today |
 |---|---|---|
-| Brydg Outreach | 8 companies | Follow up Jean, email Equity Bank |
+| Creovine Outreach | 8 companies | Follow up Jean, email Equity Bank |
 | Job Applications | 0 | Apply to first 2-3 roles |
 | Art Book | New | Research & plan |
+
+---
+
+## 🇷🇼 Visa Milestone Reminder
+> ⏳ **5 months remaining.** You promised immigration: paying customers, product expansion, local hires, and revenue.
+> Today's Equity Bank email is also step 1 toward opening your Creovine business account (visa requirement B1).
 
 ---
 
@@ -83,6 +89,7 @@
 - **Before visiting ANY office → send email first.** (Equity Bank lesson)
 - **If a task can't be finished today, it rolls into tomorrow's timetable as priority.**
 - **Breaks are mandatory.** Burnout helps nobody.
+- **Every customer conversation = visa evidence.** Document everything.
 
 ---
 

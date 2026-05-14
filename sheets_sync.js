@@ -1,12 +1,11 @@
 /**
- * Google Sheets Sync Utility — Abraham & Sarah (Shared)
- *
- * Pushes CSV data to Google Sheets using the abrahamsarah service account.
+ * Google Sheets Sync — Abraham & Sarah (Creovine Labs)
+ * Service account: abrahamsarah@abrahamsarah.iam.gserviceaccount.com
  *
  * Usage:
- *   node sheets_sync.js            → Sync all
- *   node sheets_sync.js brydg      → Sync Brydg outreach
- *   node sheets_sync.js jobs       → Sync Abraham job applications
+ *   node sheets_sync.js              → Sync all
+ *   node sheets_sync.js creovine     → Sync Creovine (Lira/Brydg) outreach
+ *   node sheets_sync.js jobs         → Sync Abraham job applications
  */
 const { google } = require('googleapis');
 const fs = require('fs');
@@ -67,11 +66,13 @@ async function main() {
 
   console.log('Syncing CSVs \u2192 Google Sheets\n');
 
-  if (target === 'all' || target === 'brydg') {
-    if (config.brydg_outreach && config.brydg_outreach.spreadsheetId) {
-      const n = await syncSheet(s, config.brydg_outreach.spreadsheetId, 'brydg_outreach_tracker.csv', OH);
-      console.log('  \u2713 Brydg Outreach: ' + n + ' rows');
-      console.log('    ' + config.brydg_outreach.url);
+  // Creovine outreach (was "brydg")
+  const outreachKey = config.creovine_outreach ? 'creovine_outreach' : 'brydg_outreach';
+  if (target === 'all' || target === 'creovine' || target === 'brydg') {
+    if (config[outreachKey] && config[outreachKey].spreadsheetId) {
+      const n = await syncSheet(s, config[outreachKey].spreadsheetId, 'creovine_outreach_tracker.csv', OH);
+      console.log('  \u2713 Creovine Outreach: ' + n + ' rows');
+      console.log('    ' + config[outreachKey].url);
     }
   }
 
