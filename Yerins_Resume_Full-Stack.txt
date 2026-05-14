@@ -1,0 +1,181 @@
+Yerinmene Abraham Saibakumo
+Full-Stack Developer
+PROFESSIONAL SUMMARY
+Full-Stack Developer with 5+ years of experience building scalable web
+applications, frontend & backend systems, and data-driven platforms. Strong
+expertise in TypeScript, Python, and PostgreSQL, with a focus on API
+development, system architecture, and database optimization.
+Experienced in developing production-ready software across frontend and
+backend layers, including real-time systems, payment integrations, and
+analytics-driven applications. Comfortable working in remote teams and
+delivering clean, maintainable, and high-performance code in fast -paced
+environments.
+EXPERIENCE
+Senior Backend Developer (Full-Stack Responsibilities )
+FLUXUS NG | 2025 – Present
+2025 - PRESENT
+●
+Designed and developed scalable REST APIs supporting mobile and web
+●
+●
+●
+●
+applications
+Implemented backend services and integrated frontend features using
+TypeScript
+Designed and optimized PostgreSQL database schemas and queries for
+performance
+Built background processing systems for asynchronous tasks and
+event -driven workflows
+Collaborated with product and frontend teams to translate requirements
+into production-ready features
+Key Achievements:
+●
+Improved API response time by optimizing database queries and indexing
+●
+●
+strategies
+Reduced server error rates by implementing structured logging and
+monitoring systems
+Contributed to system architecture decisions improving reliability and
+scalability
+📧 yerinssaibs@gmail.com
+📞 +234 901 860 4316 (WhatsApp)
+🔗
+https://github.com/yerinsabraham
+🌍 Remote, Worldwide
+SKILLS
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Backend System Architecture
+API Design and Development
+Microservices Architecture
+Database Design and
+Optimization
+Authentication and
+Authorization Systems
+Payment Gateway Integration
+Cloud Infrastructure
+Deployment
+Scalable Application
+Development
+Performance Optimization
+Secure Backend Development
+TECHNICAL STACK
+Languages
+Python
+Node.js (JavaScript / TypeScript)
+Go
+.NET
+Frontend
+React
+TypeScript
+Modern JavaScript (ES6+ )
+API Integration
+Flutter
+Responsive UI Integration
+Backend Frameworks
+Express.js
+Django
+FastAPI
+NestJS
+Databases
+PostgreSQL
+MySQL
+MongoDB
+Redis
+Cloud & Infrastructure
+AWS
+Google Cloud Platform
+Full-Stack Developer
+Global Remote Engineering Collective | 2022 – 2024
+●
+●
+●
+●
+●
+Developed backend services and API endpoints using Node.js and Python
+Built and integrated frontend components using JavaScript and
+TypeScript
+Wrote optimized SQL queries and handled database design using
+PostgreSQL
+Contributed to data processing logic and backend systems supporting
+analytics features
+Participated in code reviews and collaborated with distributed engineering
+teams
+Key Achievements:
+●
+Improved API performance through query optimization and efficient data
+●
+●
+modeling
+Contributed to scalable backend systems supporting global SaaS users
+Delivered multiple production features across both frontend and backend
+systems
+Docker
+CI/CD Pipelines
+Other Technologies
+REST API Development
+GraphQL
+Webhooks
+OAuth / JWT Authentication
+Message Queues
+Server Monitoring Tools
+ADDITIONAL STRENGTHS
+●
+Strong problem solving
+ability
+●
+Clean and maintainable code
+practices
+●
+Experience working in agile
+development environments
+●
+Excellent collaboration with
+cross functional teams
+●
+Strong documentation and
+technical communication
+SELECTED PROJECTS
+Scalable Payment Processing System
+Designed and built a secure backend system for handling payments and
+transaction workflows
+Key Features:
+Payment verification and transaction processing
+Webhook event handling for external integrations
+Secure transaction storage and audit logging
+Fraud detection and validation logic
+Technologies: Node.js, PostgreSQL, Redis
+Real- Time Messaging System
+Developed a backend infrastructure supporting real-time communication
+features
+Capabilities:
+WebSocket -based communication
+Real-time notifications and message delivery
+Scalable message storage and retrieval
+High-concurrency system design
+Technologies: Go, Redis, PostgreSQL
+SaaS Platform Backend & Data Systems
+Built backend services for a subscription-based SaaS platform with analytics
+capabilities
+Key Components:
+Authentication and authorization systems (JWT, OAuth)
+Subscription billing and payment logic
+Data pipelines and analytics processing
+Admin dashboards and API integrations
+Technologies: Python, FastAPI, PostgreSQL, AWS
+EDUCATION
+Sumy State University – Sumy, Ukraine
+Doctor of Medicine (M.D.)
+Graduated: 2019
+●
+Studied fully in English

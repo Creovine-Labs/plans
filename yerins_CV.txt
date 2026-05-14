@@ -1,0 +1,147 @@
+Yerins Abraham
+Backend Developer
+PROFESSIONAL SUMMARY
+Backend Engineer with 5+ years of professional experience designing and
+building scalable server-side systems, APIs, and cloud based infrastructure for
+startups and growing technology companies.
+Skilled in building high performance backend services, secure authentication
+systems, payment integrations, and distributed systems. Strong experience
+working with REST APIs, databases, and cloud infrastructure to deliver reliable,
+scalable software products.
+Comfortable working in remote engineering teams and international
+environments, collaborating with frontend developers, product managers, and
+DevOps engineers to deliver production ready applications.
+Passionate about clean architecture, performance optimization, and scalable
+backend design.
+EXPERIENCE
+Senior Backend Developer, FLUXUS NG
+2025 - PRESENT
+Worked within a product engineering team building scalable web platforms
+and internal APIs.
+Responsibilities:
+• Developed backend APIs supporting mobile applications and web dashboards.
+• Designed database schemas and implemented efficient data structures.
+• Built background processing services for handling asynchronous tasks.
+• Collaborated closely with frontend teams to ensure seamless API integration.
+Achievements:
+• Built an API gateway system that improved service reliability and response
+speed.
+• Reduced server errors by implementing improved logging and monitoring
+systems.
+📧 yerinssaibs@gmail.com |
+WhatsApp📞 +234 901 860 4316 |
+https://github.com/yerinsabraham
+🌍 Available to work remotely
+worldwide
+SKILLS
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Backend System Architecture
+API Design and Development
+Microservices Architecture
+Database Design and
+Optimization
+Authentication and
+Authorization Systems
+Payment Gateway Integration
+Cloud Infrastructure
+Deployment
+Scalable Application
+Development
+Performance Optimization
+Secure Backend Development
+TECHNICAL STACK
+Languages
+Python
+Node.js (JavaScript / TypeScript)
+Go
+.NET
+Backend Frameworks
+Express.js
+Django
+FastAPI
+NestJS
+Databases
+PostgreSQL
+MySQL
+MongoDB
+Redis
+Cloud & Infrastructure
+AWS
+Google Cloud Platform
+Docker
+CI/CD Pipelines
+Other Technologies
+REST API Development
+GraphQL
+Webhooks
+OAuth / JWT Authentication
+Message Queues
+Server Monitoring Tools
+Backend Developer, Global Remote Engineering Collective
+2022 - 2024
+Worked with distributed teams on several international projects.
+Responsibilities:
+• Developed backend modules and services using Node.js and Python.
+• Assisted in building scalable API endpoints for web platforms.
+• Conducted debugging and performance testing for production systems.
+• Participated in code reviews and collaborative engineering discussions.
+Achievements:
+• Contributed to backend services supporting a SaaS platform with global users.
+• Improved API response efficiency through database query optimization.
+ADDITIONAL STRENGTHS
+●
+Strong problem solving
+ability
+●
+Clean and maintainable code
+practices
+●
+Experience working in agile
+development environments
+●
+Excellent collaboration with
+cross functional teams
+●
+Strong documentation and
+technical communication
+SELECTED PROJECTS
+Scalable Payment Processing API
+Designed and built a secure backend service that handles payment processing
+and transaction management.
+Features:
+• Payment verification system
+• Webhook event processing
+• Secure transaction storage
+• Fraud detection safeguards
+Technologies: Node.js, PostgreSQL, Redis
+Real Time Messaging Backend
+Built a backend infrastructure supporting real time messaging features.
+Capabilities:
+• WebSocket communication
+• Message storage and retrieval
+• Real time notifications
+• Scalable architecture for high concurrency
+Technologies: Go, Redis, PostgreSQL
+SaaS Platform Backend Infrastructure
+Developed backend services for a subscription based SaaS platform.
+Key Components:
+• User authentication and authorization
+• Subscription billing logic
+• Data analytics pipelines
+• Admin management APIs
+Technologies: Python, FastAPI, PostgreSQL, AWS
+EDUCATION
+Sumy State University – Sumy, Ukraine
+Doctor of Medicine (M.D.)
+Graduated: 2019
+●
+Studied fully in English

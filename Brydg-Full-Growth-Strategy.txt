@@ -1,0 +1,255 @@
+BRYDG.APP
+
+Agency, Direct Company
+and Revenue Growth Strategy
+
+Internal Use Only  •  May 2026  •  Confidential
+
+1. Recruitment Agencies: Kigali Priority Targets
+Start here. These agencies are tech-literate, high-volume, and will understand the value of $1 per interview immediately. Close HC Solutions and Sharpen Jobs first. Once they sign, the rest of Kigali follows.
+
+Agency
+Location
+Why They Need Brydg
+HC Solutions
+Silverback Mall, Kicukiro
+Automating 100% of recruitment cycles is their stated goal. Brydg is the final piece of that roadmap.
+Sharpen Jobs
+23 KG 177 St
+Handles high-volume placements for I&M Bank and Satguru Travel. Speed is everything for these clients.
+Right Seat
+KG 622 St
+Women-led firm focused on strategic talent curation. Brydg adds deeper qualitative screening at scale.
+ITM Rwanda
+Nyarutarama
+500+ placements monthly. Without AI, manual labour costs are eating their margins.
+Job in Rwanda
+Remera
+Dominant local portal. Brydg becomes their Elite Vetting tier for premium listings.
+Q-Sourcing Servtec
+Kimihurura
+Outsourcing and manpower specialists. Need Brydg to screen hundreds for construction and energy projects.
+CA Global Rwanda
+Remera / CBD
+Expat and diaspora hiring focus. Brydg screens candidates who are not physically in Rwanda yet.
+Caddy International
+Kacyiru
+Mid to senior roles. Brydg handles first-look culture-fit interviews before human recruiters engage.
+Future Careers Rwanda
+Kicukiro
+Youth employment focus. Thousands of applications. Brydg is the only fair way to screen them all.
+Plug n Play Rwanda
+Downtown Kigali
+Startup and tech focus. Their clients expect modern AI-driven tools as baseline.
+
+2. Ministry Strategy: The National Infrastructure Pitch
+For ministries you are not selling a product. You are selling a solution to unemployment friction. The language changes completely.
+
+MIFOTRA: Ministry of Public Service and Labour
+Angle: Digital Meritocracy.
+Pitch Brydg as the tool to handle civil service exams and initial interviews. Every candidate is interviewed and scored by the same neutral AI agent. No human bias. No nepotism. A documented, auditable process that the ministry can stand behind publicly.
+
+MINICT: Ministry of ICT and Innovation
+Angle: Tech-Enabled Workforce.
+Request integration into the Irembo portal or recognition as a standard tool for the Digital Ambassadors programme. Brydg becomes part of Rwanda's national digital infrastructure narrative.
+
+National Employment Programme: Kora Wigire
+Angle: Mass Screening at Scale.
+They move thousands of people through TVET vocational training. Brydg acts as the exit interview to certify graduates are job-ready. This is a government endorsement that unlocks every other conversation in Rwanda.
+
+3. Direct Company Outreach: Same Price, Same Model
+Every company that hires is a potential client. Recruitment agencies are the first channel but they are not the only one. Banks, telcos, NGOs, hospitality groups and parastatals all run hiring cycles and all have the same pain.
+The pricing is identical: $29 per month plus $1 per completed interview. No separate enterprise pricing. No confusion. The simplicity is the strategy.
+
+Why Same Pricing Works for Direct Companies
+  A bank interviewing 200 candidates pays $229 total for that month.
+  That is cheaper than the electricity and coffee bill for 200 human-led interviews.
+  There is no negotiation. The math does the selling.
+
+Sector
+Company
+Hiring Volume
+Brydg Angle
+Banking
+Equity Bank Rwanda
+High (branch staff, graduates)
+Automate graduate intake screening. Consistent rubric across all branches.
+Banking
+Bank of Kigali
+High (seasonal recruitment drives)
+Screen 200 candidates for $229 total vs. weeks of manual HR work.
+Logistics / Tech
+Zipline
+Medium (ops, engineering)
+Fast-growing team needs speed without sacrificing quality.
+Accelerator / NGO
+Jasiri
+Medium (staff + fellow selection)
+Screen entrepreneur applicants for cohorts at scale, fairly and consistently.
+Telecom
+MTN Rwanda
+High (seasonal, graduate)
+Large volume intake programmes need automated first-round screening.
+Telecom
+Airtel Rwanda
+Medium
+Same intake problem as MTN. Consistent evaluation across all candidates.
+Hospitality
+Marriott / Radisson
+High (seasonal, entry-level)
+Hotels hire in bulk for seasonal peaks. Brydg screens hundreds overnight.
+Healthcare
+King Faisal Hospital
+Medium (specialist roles)
+Structured clinical screening questions ensure consistent evaluation.
+Education
+University of Rwanda
+Medium (faculty, admin)
+Academic hiring needs fair, documented evaluation for compliance.
+FMCG
+Bralirwa
+High (field staff, graduates)
+Graduate recruitment drives generate hundreds of applications per cycle.
+Government / Parastatal
+RDB
+High (national programmes)
+Digital meritocracy pitch. AI removes bias from public sector hiring.
+Real Estate / Construction
+Groupe Akagera
+Medium
+Project-based hiring spikes. Brydg scales up and down with demand.
+
+How to Approach Direct Companies
+	•	Lead with the research framing: you are publishing a report on how fast-growing companies in Rwanda hire.
+	•	Surface the pain through questions before mentioning Brydg.
+	•	Reference Unilever and Goldman Sachs to show this is global best practice not a new experiment.
+	•	Tie it to Rwanda's government AI push for credibility and mission alignment.
+	•	Ask for 15 minutes and offer to come to them. Make it frictionless.
+
+4. Federation Partnerships: The Aggregator Model
+One federation deal gives you hundreds of member agencies at once. This is the highest-leverage channel available. Do not skip it in favour of chasing individual agencies.
+
+The Federation Member Perk Offer
+  "Give your members a competitive edge. As a Federation Partner your members receive:"
+
+  •  First 50 interviews completely free
+  •  Lifetime base rate of $19 per month (standard is $29)
+  •  Co-branded announcement to all members at launch
+
+Federation
+Reach
+Partnership Strategy
+PSF ICT Chamber
+All tech CEOs in Rwanda
+Propose Brydg as the official hiring tool for Hanga Pitchfest participants.
+Rwanda Bankers' Association
+All HR Heads of Banks
+Propose a unified talent pool where banks share the cost of screening entry-level tellers.
+Rwandan HR Professionals Assoc.
+All local HR Managers
+Offer a Certification in AI Recruitment powered by Brydg.
+
+5. Revenue Projections and Reality Check
+This section uses the actual pricing model: $29 per month per client plus $1 per completed interview.
+
+Important Note Before Reading These Numbers
+  The $1 million target in 6 months is achievable but extremely ambitious.
+  The interview volume is the key driver, not the subscription fee.
+  Subscriptions alone from 1,000 clients only generate $174,000 over 6 months.
+  To reach $1M you need clients doing high interview volumes consistently.
+  The most realistic path is a mix of high-volume agencies and direct company clients.
+
+Paths to $1 Million in 6 Months
+Each row below represents a combination of client count and interview volume that reaches the $1M target.
+
+Clients
+Avg Interviews / Month
+Subscription (6mo)
+Interview Rev (6mo)
+Total
+500
+304
+$87,000
+$912,000
+$999,000
+1,000
+138
+$174,000
+$828,000
+$1,002,000
+2,000
+54
+$348,000
+$648,000
+$996,000
+5,000
+17
+$870,000
+$510,000
+$1,380,000
+
+The most realistic path highlighted above is 1,000 clients averaging 138 interviews per month each. This requires a mix of high-volume recruitment agencies running bulk screening and direct companies with regular intake cycles.
+
+If We Close 100 Clients
+A more near-term milestone. Here is what 100 clients actually generates depending on their interview volume.
+
+Scenario
+6-Month Total
+MRR at Month 6
+Annual Run Rate
+Conservative (20 interviews/month avg)
+$29,400
+$4,900
+$58,800
+Moderate (50 interviews/month avg)
+$47,400
+$7,900
+$94,800
+Strong (100 interviews/month avg)
+$77,400
+$12,900
+$154,800
+High Volume (200 interviews/month avg)
+$137,400
+$22,900
+$274,800
+
+The Takeaway on 100 Clients
+  100 clients at moderate usage (50 interviews/month each) generates $47,400 over 6 months.
+  To make 100 clients meaningful you need to target high-volume clients from the start.
+  One ITM Rwanda (500+ placements/month) is worth more than 10 small agencies combined.
+  Prioritise volume over headcount when choosing which clients to close first.
+
+6. Execution Roadmap: 6-Month Sprint
+The sequence that takes us from local proof of concept to international scaling.
+
+#
+When
+Actions
+Milestone
+1
+Month 1
+Sign HC Solutions and Sharpen Jobs as first 2 beta agencies. Onboard 3 direct companies (Zipline, Jasiri, 1 bank). Finalise Federation Perk PDF.
+5 paying clients. First real interview data.
+2
+Month 2
+Approach PSF ICT Chamber and Rwanda Bankers' Association. Begin Instagram recruiter partnership outreach.
+2 federation conversations open. 2 influencer partnerships live.
+3
+Months 3-4
+Run AI in Recruitment webinar for federation members. Target 200 sign-ups. Expand to HUPAN (Nigeria) and APSO (South Africa).
+200+ leads. First international clients.
+4
+Months 5-6
+Self-service scaling. Launch in India and UK via REC and ISF. Push interview volume aggressively.
+Toward 1,000 clients. Interview count scaling fast.
+
+7. Open Questions Before Executing
+	•	Confirm Harambee's Rwanda presence before including them in the local plan. They are South Africa-based.
+	•	Decide on what beta clients get beyond pricing. Dedicated onboarding? A featured case study? A reference call?
+	•	Build the Federation Perk PDF before any federation meeting happens. It needs to exist on paper to be taken seriously.
+	•	Agree on the Instagram recruiter referral commission rate before outreach begins.
+	•	Decide whether Month 5-6 India and UK push is realistic with current team size or whether a part-time BD hire is needed for that phase.
+	•	Define what counts as a completed interview for billing purposes. No-shows must remain free as stated in the pricing.
+
+Brydg.app  •  Confidential  •  Internal Use Only

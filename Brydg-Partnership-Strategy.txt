@@ -1,0 +1,303 @@
+BRYDG.APP
+
+Recruitment Agency
+Growth Strategy
+
+Internal Strategy Document  •  Confidential  •  May 2026
+
+1. Core Value Proposition: The 10x Recruiter
+We are not selling software. We are selling Operational Leverage. Brydg enables any organisation to handle 10x the volume of candidates without hiring 10x the staff.
+
+The Logical Case
+	•	Cost Reduction:  AI reduces Cost-per-Screen by up to 80% versus manual screening.
+	•	Speed-to-Submittal:  Brydg interviews 100 people in the time it takes a human to interview one.
+	•	Data-Driven Shortlisting:  Every candidate ranked against a uniform rubric. No bias. No gut feelings.
+	•	24/7 Global Reach:  The AI does not sleep. No talent is ever lost to a timezone.
+
+The Emotional Case
+	•	Eliminate Screening Burnout:  Free recruiters from repetitive first-round calls to focus on high-value work.
+	•	Professional Prestige:  A Brydg-Verified report makes any agency look like a tech-forward leader.
+	•	Win Certainty:  Stop losing placement fees because another agency moved faster.
+
+2. Pricing Structure
+One price for everyone. Agencies, direct businesses, government. No confusion. No complex quotes. No reason to hesitate.
+
+Platform Subscription  —  $29 / month
+  •  Full access to the Brydg Dashboard
+  •  Unlimited job post creations and candidate ranking
+  •  Google Meet and video integration included
+
+Pay-As-You-Go  —  $1 / completed interview
+  •  Only pay for what you use
+  •  No charge for no-shows or cancelled meetings
+  •  Predictable costs that track directly against placement fees
+
+Example: Bank of Kigali interviews 200 candidates in a month. Total cost: $229. Cheaper than the electricity and coffee consumed by a room of human interviewers doing the same thing.
+
+3. Market Penetration: The Aggregator Model
+Instead of chasing individual clients, we target Gatekeepers. Federations and associations. One agreement auto-onboards dozens or hundreds of members at once. This is the highest-leverage move available to us.
+
+The Federation Perk Offer
+  "Give your members a competitive edge. As a Federation Partner, your members receive:"
+  •  First 50 interviews completely free
+  •  Lifetime base rate of $19/month (standard is $29)
+  •  Co-branded launch announcement to all members
+
+Global Federation Targets
+
+Region
+Federation
+Strategy
+Rwanda
+PSF ICT Chamber
+Propose Brydg as official hiring tool for Hanga Pitchfest participants.
+Rwanda
+Rwanda Bankers Association
+Unified talent pool for entry-level bank screening across all members.
+Rwanda
+Rwandan HR Professionals Association
+Offer Certification in AI Recruitment powered by Brydg.
+Nigeria
+HUPAN
+HR Providers Association. Essential for Lagos market entry.
+South Africa
+APSO
+Most sophisticated recruitment market in Africa.
+India
+ISF
+Massive volume. Represents millions of workers.
+UK
+REC
+Access to 3,000+ professional agencies.
+
+4. Kigali Master Outreach List: Recruitment Agencies
+Start with HC Solutions and Sharpen Jobs. They are already tech-literate and will understand the value of $1/interview immediately. Once they sign, the rest of Kigali follows.
+
+Agency
+Location
+Why They Need Brydg
+HC Solutions
+Silverback Mall, Kicukiro
+Automating 100% of recruitment is their core goal. Brydg is the final piece.
+Sharpen Jobs
+23 KG 177 St
+High-volume placements for I&M Bank and Satguru Travel. Speed is everything.
+Right Seat
+KG 622 St
+Women-led, strategic talent curation focus. Brydg adds qualitative depth.
+ITM Rwanda
+Nyarutarama
+500+ placements monthly. Manual screening is eating their margins.
+Job in Rwanda
+Remera
+Dominant local portal. Brydg becomes their Elite Vetting tier for premium listings.
+Q-Sourcing Servtec
+Kimihurura
+Outsourcing specialists. Need to screen hundreds for construction and energy projects.
+CA Global Rwanda
+Remera / CBD
+Expat and diaspora hiring. Brydg screens candidates not physically in Rwanda yet.
+Caddy International
+Kacyiru
+Mid-to-senior roles. Brydg handles culture-fit first-look interviews.
+Future Careers Rwanda
+Kicukiro
+Youth employment. Thousands of applications. Brydg is the only fair way to screen at volume.
+Plug n Play Rwanda
+Downtown Kigali
+Startup and tech focus. Clients expect modern AI-driven tools.
+
+5. Ministry Strategy: The National Infrastructure Pitch
+For government ministries we do not sell a product. We sell a solution to unemployment friction. Language shifts from efficiency to fairness, meritocracy, and national transformation.
+
+MIFOTRA: Ministry of Public Service and Labour
+Angle: Digital Meritocracy
+Pitch Brydg as the tool to handle Civil Service Exams and initial interviews.
+It removes the possibility of human bias or nepotism. Every candidate is interviewed
+and scored by the same neutral AI agent. Same questions. Same rubric. Every time.
+
+MINICT: Ministry of ICT and Innovation
+Angle: Tech-Enabled Workforce
+Request integration into the Irembo portal or recognition as a standard tool for
+the Digital Ambassadors programme. Brydg is a Rwandan-built AI product that
+embodies the government's own digital transformation narrative.
+
+National Employment Programme: Kora Wigire
+Angle: Mass Screening at Scale
+They move thousands of people through TVET vocational training each year.
+Brydg acts as the exit interview to certify that graduates are job-market ready.
+Every graduate screened consistently and fairly before entering the workforce.
+
+6. Direct Business Outreach: Every Company That Is Hiring
+Recruitment agencies are not the only target. Any company posting a job in the last 30 days is a warm lead. Same pricing. Same product. Different conversation.
+
+How to Identify Direct Business Leads
+	•	LinkedIn Jobs:  Filter by Kigali, Rwanda. Any active posting is a target. Check daily.
+	•	JobinRwanda.com:  The dominant local job board. Every posting is a lead.
+	•	BrighterMonday Rwanda:  Regional board with strong Rwanda presence.
+	•	Kigali Innovation City:  Cluster of tech companies all likely hiring. One visit, multiple leads.
+	•	Norrsken House Kigali:  Home to Jasiri and dozens of startups. High density of growing companies.
+	•	Company career pages:  Banks, telecoms, NGOs, logistics companies. Check directly.
+
+Priority Verticals for Direct Business Outreach
+Vertical
+Key Companies
+Hiring Pain
+Banking and Finance
+Bank of Kigali, Equity Bank, I&M Bank, BPR
+High volume entry-level hiring. Teller, ops, and graduate programmes.
+Telecoms
+MTN Rwanda, Airtel Rwanda
+Large workforces, frequent hiring cycles, need consistency at scale.
+NGOs and Development
+USAID, GIZ, IRC, World Bank projects
+Strict documentation and evaluation needs. Donor compliance matters.
+Logistics and E-Commerce
+Zipline, Mara Group, local couriers
+Operations staff hiring. Speed is everything.
+Hospitality and Tourism
+Marriott, Radisson, Serena Hotels
+High turnover. Constant hiring. Need fast consistent screening.
+Tech and Startups
+Kigali Innovation City tenants
+Small HR teams, high hiring expectations, open to AI tools.
+Education and Training
+Universities, TVET institutions
+Faculty and admin hiring. Structured evaluation needed.
+
+The Direct Business Opening Line
+Trigger: We see you are currently hiring for [role].
+
+"We noticed you are actively hiring right now. We work with companies across Kigali
+to cut their screening time by up to 90%. Brydg runs your first round interviews
+automatically. Your team only speaks to candidates who actually make the cut."
+
+Pricing: $29/month and $1 per completed interview. Same whether you are an agency or a business.
+
+7. Revenue Projections
+Two questions answered with real numbers. What does 100 clients look like, and what does it take to reach $1,000,000 in 6 months.
+
+Scenario A: 100 Clients
+
+Client Type
+Avg Interviews / Month
+Revenue / Client
+Clients
+Group Monthly Revenue
+Small Business (10 to 50 employees)
+20 interviews
+$49 / month
+40
+$1,960
+Medium Business or Agency (50 to 200 employees)
+75 interviews
+$104 / month
+40
+$4,160
+Large Agency or Enterprise (200+ employees)
+250 interviews
+$279 / month
+20
+$5,580
+
+100 Clients: The Numbers
+Monthly subscriptions (100 x $29)	$2,900
+Monthly interview revenue	$11,700
+Total monthly revenue	$11,700
+6-month total	$70,200
+Annual run rate	$140,400
+
+
+What This Actually Means
+Monthly recurring (predictable)	$2,900
+Monthly usage (scales with volume)	$8,800
+Revenue per client per month (avg)	$117
+6-month total	$70,200
+Milestone	Strong proof of concept
+
+
+Honest read: 100 clients gets you to $70K over 6 months. That is meaningful traction but not $1M. You need federation deals or enterprise clients to close that gap.
+
+Scenario B: The Road to $1,000,000 in 6 Months
+Required monthly revenue: $166,667. Here are the four paths.
+
+Path
+Strategy
+Avg Revenue / Client / Month
+Clients Needed
+New Clients / Month
+A
+Small businesses only (avg 20 interviews/month)
+$49
+3,402 clients
+567 per month
+B
+Mixed client base (our current model)
+$117
+1,425 clients
+238 per month
+C
+High-volume agencies only (avg 250 interviews)
+$279
+598 clients
+100 per month
+D
+Enterprise focus (avg 500 interviews/month)
+$529
+316 clients
+53 per month
+
+The Federation Multiplier: Why This Changes Everything
+1 federation with 200 member agencies (at $19/month + avg 75 interviews/month):
+
+  •  Monthly revenue from 1 federation deal:        $20,800
+  •  6-month revenue from 1 federation deal:        $124,800
+  •  Federations needed to hit $1M in 6 months:    9 federations
+
+Realistic hybrid target:
+  3 federations ($374,400) + 500 direct clients at mixed rate ($351,000) = $725,400
+  Add enterprise clients and ministry deals and $1M becomes achievable.
+
+The Honest Path to $1M
+	•	Month 1 to 2:  Sign 5 Kigali beta agencies and 20 direct businesses. Build the case studies.
+	•	Month 2 to 3:  Close first federation deal. PSF ICT Chamber or Rwanda Bankers Association. This unlocks 50 to 200 members at once.
+	•	Month 3 to 4:  Expand to Nigeria (HUPAN) and South Africa (APSO). Target 2 federation deals.
+	•	Month 4 to 5:  Self-service product live. Direct inbound from LinkedIn content and research report.
+	•	Month 5 to 6:  India and UK outreach. High volume markets. 1 federation deal here equals hundreds of agencies.
+
+Bottom line: $1M in 6 months requires federation deals, not just individual clients. Prioritise those conversations above everything else from month 2 onwards.
+
+8. Execution Roadmap: The 6-Month Sprint
+
+Phase
+Timeline
+Key Actions
+Target Outcome
+1
+Month 1
+Sign 5 Kigali beta agencies. 20 direct business conversations. Finalise Federation Perk PDF.
+Local proof of concept. First revenue.
+2
+Month 2
+PSF ICT Chamber and Rwanda Bankers Association outreach. HUPAN Nigeria via LinkedIn.
+First federation conversation opened.
+3
+Months 3 to 4
+AI in Recruitment webinars for federation members. Ministry pitches begin (MIFOTRA, MINICT).
+200+ sign-ups. Government conversation started.
+4
+Months 5 to 6
+Self-service scaling. India and UK high-volume markets. Inbound through content strategy.
+Drive toward 1 million interview milestone.
+
+9. Open Questions and Decisions Needed
+
+	•	Federation Perk PDF:  Build this before any federation conversation. It needs to exist to be credible.
+	•	Beta Agency Benefits:  Beyond pricing, what does a beta agency get? Onboarding? Case study? Reference call?
+	•	Ministry Timing:  MIFOTRA conversation needs a warm intro, not a cold email. Who is the connection?
+	•	Team Capacity:  Month 5 to 6 India and UK push may require a part-time BD person. Decide early.
+	•	Instagram Recruiter Partnerships:  Affiliate structure needs to be finalised and running in parallel.
+	•	Harambee Rwanda Presence:  Confirm before including in local outreach. They are South Africa-based primarily.
+	•	Self-Service Product Readiness:  Month 5 assumes self-service is live. Confirm engineering timeline.
+
+Confidential  •  Internal Use Only  •  Brydg.app  •  May 2026

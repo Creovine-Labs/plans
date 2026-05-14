@@ -1,0 +1,24 @@
+# Sensitive files — never commit
+google-service-account.json.json
+.sheets_config.json
+*.json.json
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
