@@ -1,12 +1,12 @@
 # Abraham's Daily Timetable
 
-**Date:** Thursday, May 15, 2026  
-**Generated:** May 14, 2026
+**Date:** Friday, May 16, 2026  
+**Generated:** May 15, 2026 (end of day)
 
 ---
 
 ## 🎯 Today's Focus
-> Close overdue follow-ups. Start structured outreach. Begin art book research.
+> Catch the missed HC Solutions/Sharpen Jobs research. Advance art book concept. Protect time for Riverly + Lykluk.
 
 ---
 
@@ -15,56 +15,50 @@
 | Time | Task | Category | Priority |
 |---|---|---|---|
 | **8:00–9:00 AM** | Morning routine, plan day with Sarah | Personal | — |
-| **9:00–9:30 AM** | Follow up with Jean (Zipline) — 2 days overdue | Brydg Outreach | 🔴 HIGH |
-| **9:30–10:00 AM** | Draft & send introductory email to Equity Bank | Brydg Outreach | 🔴 HIGH |
-| **10:00–10:30 AM** | Follow up with James about Martine (Jasiri) | Brydg Outreach | 🟡 MEDIUM |
-| **10:30–11:30 AM** | Riverly work: Get update from PM, call with colleague | Riverly (FLUXUS) | 🔴 HIGH |
-| **11:30–12:30 PM** | Apply to 2-3 back-end / full-stack jobs | Job Search | 🟡 MEDIUM |
-| **12:30–1:00 PM** | Art book: Research phase — find references, decide art style, set up drawing plan | Art Book | 🟢 NEW |
-| **1:00–2:00 PM** | 🍽️ **BREAK — Lunch with Sarah** | Break | — |
-| **2:00–3:00 PM** | Lykluk work (check pending tasks, code review) | Lykluk | 🟡 MEDIUM |
-| **3:00–4:00 PM** | Flux backend work (FLUXUS NG) | Flux (FLUXUS) | 🟡 MEDIUM |
-| **4:00–4:30 PM** | Research contacts for HC Solutions & Sharpen Jobs | Brydg Outreach | 🟡 MEDIUM |
-| **4:30–5:00 PM** | Review today's progress. Note what's unfinished. | Admin | — |
-| **5:00–6:00 PM** | 🎬 **BREAK — Time with Sarah** (movie, walk, relax) | Break | — |
+| **9:00–10:00 AM** | 🔴 **HC Solutions & Sharpen Jobs** — Research contacts, find emails/LinkedIn, draft outreach messages | Creovine Outreach | 🔴 HIGH |
+| **10:00–10:30 AM** | ☕ Short break | Break | — |
+| **10:30–12:00 PM** | Riverly work: Continue corporate banking endpoints, coordinate with Sarah on frontend API issues | Riverly (FLUXUS) | 🔴 HIGH |
+| **12:00–12:30 PM** | Art book: Refine concept — storyboard ideas, review Pinterest saves, decide direction | Art Book | 🟡 MEDIUM |
+| **12:30–1:30 PM** | 🍽️ **BREAK — Lunch with Sarah** | Break | — |
+| **1:30–2:30 PM** | Job search: Review 4 applications sent yesterday, check for replies, research 1-2 more roles | Job Search | 🟡 MEDIUM |
+| **2:30–3:30 PM** | Lykluk work: Continue frontend-backend alignment | Lykluk | 🟡 MEDIUM |
+| **3:30–4:00 PM** | Art book: Message Kigali publisher (WhatsApp intro — you have their number) | Art Book | 🟡 MEDIUM |
+| **4:00–4:30 PM** | Flux work (check if any pending tasks surfaced) | Flux (FLUXUS) | 🟢 LOW |
+| **4:30–5:00 PM** | Review day. Note what's unfinished. | Admin | — |
+| **5:00–6:00 PM** | 🎬 **BREAK — Time with Sarah** | Break | — |
 | **6:00–6:15 PM** | Send end-of-day update to Copilot | Admin | 🔴 HIGH |
-| **Evening** | Free — relax, no work | Personal | — |
+| **Evening** | Free | Personal | — |
 
 ---
 
 ## 📋 Detailed Tasks
 
-### 🔴 1. Follow Up with Jean (Zipline)
-- He was supposed to respond May 13. Now 2 days overdue.
-- **Suggested WhatsApp:**
-  > Hi Jean, hope your week is going well! Just checking in on the developer intro we discussed — no rush at all, just keeping momentum. Let me know if you need anything from my side. Thanks!
+### 🔴 1. HC Solutions & Sharpen Jobs Research (Carried Over)
+- **⚠️ Missed yesterday** — do this first
+- Search LinkedIn for: "HC Solutions Rwanda" / "Sharpen Jobs Rwanda"
+- Find decision-maker names (CEO, HR Director, Operations)
+- Draft 2-3 sentence outreach message template for each
+- Add contacts to Creovine Outreach tracker
 
-### 🔴 2. Email Equity Bank Rwanda
-- **To:** info@equitybank.co.rw
-- **Fallback call after 2 days:** +250788190000
-- **Suggested subject:** Introduction — Creovine Labs — AI for Customer Support & Hiring
-- **Key points:** Who you are, what Lira/Brydg does, you visited office, you want to understand their pain points, offer 15-min discovery, mention no-payment pilot if fit.
+### 🔴 2. Riverly — Corporate Banking Endpoints
+- Yesterday you created: corporate accounts, transactions, receipts, statements, approvals, reports, analytics, settings, support tickets
+- Sarah was blocked on frontend API integration — check if she needs anything from the backend
+- If frontend is waiting, prioritize unblocking her
 
-### 🔴 3. Riverly Work
-- Get update from product manager
-- Call colleague to clarify your exact tasks
-- Document what you learn
+### 🟡 3. Art Book — Concept Development
+- You have Pinterest saves + Instagram follower suggestions
+- Today: Narrow down to 2-3 possible concepts. Write 1 paragraph for each.
+- **Message the Kigali publisher** (you have their number from yesterday's conversation). Just introduce yourself: "Hi, I'm Abraham. We spoke briefly yesterday at [location] about an art book. I'm developing the concept now and would love to stay connected. I'll reach out when I have something concrete."
+- Goal: Have a direction by end of weekend
 
-### 🟡 4. Job Applications (First Batch)
-- Target: 2-3 quality applications
-- Use Backend CV for pure backend roles, Full-Stack CV for broader roles
-- Platforms: LinkedIn Jobs, Wellfound, Remote OK
-- Add each application to `abraham_job_applications_tracker.csv`
+### 🟡 4. Job Search
+- ✅ 4 applications sent yesterday (Glacis, Verisian, Jibble, World Camps)
+- LinkedIn messages sent to Philipp (Glacis) and Tomás (Verisian)
+- Today: Check for replies. Research 1-2 more roles if time permits.
+- No need to force it — 4 is a solid start
 
-### 🟢 5. Art Book — Research Phase
-- Find 5-10 reference art books you admire
-- Decide art style direction (digital? traditional? mixed?)
-- Set rough timeline: how many pieces, target completion date
-- Plan drawing schedule (e.g., 30 min/day)
-
-### 🟡 6. Lykluk & Flux Work
-- Check for pending PRs, issues, or messages
-- Do at least one meaningful commit or code review
+### 🟢 5. Flux — Check for Updates
+- No active work yesterday. Quick check for messages/PRs.
 
 ---
 
@@ -72,25 +66,33 @@
 
 | Tracker | Items | Key Action Today |
 |---|---|---|
-| Creovine Outreach | 8 companies | Follow up Jean, email Equity Bank |
-| Job Applications | 0 | Apply to first 2-3 roles |
-| Art Book | New | Research & plan |
+| Creovine Outreach | 9 companies (+ publisher) | Research HC Solutions & Sharpen Jobs |
+| Job Applications | 4 applied | Monitor, maybe +1 more |
+| Art Book | Research phase | Refine concept, message publisher |
+
+---
+
+## ⏳ Waiting On (No Action Today)
+
+| Who | What | Since |
+|---|---|---|
+| Jean (Zipline) | Reply to WhatsApp follow-up | May 15 |
+| James (Jasiri) | Reply to WhatsApp follow-up | May 15 |
+| Philipp (Glacis) | Reply to LinkedIn message | May 15 |
+| Tomás (Verisian) | Reply to LinkedIn message | May 15 |
+| DNS propagation | DKIM + full email functionality | May 15 |
 
 ---
 
 ## 🇷🇼 Visa Milestone Reminder
-> ⏳ **5 months remaining.** You promised immigration: paying customers, product expansion, local hires, and revenue.
-> Today's Equity Bank email is also step 1 toward opening your Creovine business account (visa requirement B1).
+> ⏳ **~5 months remaining.** Set up @creovine.com email ✅ (visa evidence). Next: bank account + first pilot conversation.
 
 ---
 
 ## 🧠 Reminders
-- **Instagram DMs are reinforcements, not primary outreach.** Email first, then DM.
-- **Before visiting ANY office → send email first.** (Equity Bank lesson)
-- **If a task can't be finished today, it rolls into tomorrow's timetable as priority.**
-- **Breaks are mandatory.** Burnout helps nobody.
-- **Every customer conversation = visa evidence.** Document everything.
+- **Email before visit.** Always.
+- **⚠️ HC Solutions/Sharpen Jobs was missed yesterday.** Do it first today.
+- **Breaks are mandatory.**
+- **Weekend tomorrow** — lighter timetable unless urgent.
 
----
-
-> 📝 **End of Day:** Send your update and I'll generate tomorrow's timetable.
+> 📝 **End of Day:** Send your update.

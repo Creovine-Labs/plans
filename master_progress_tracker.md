@@ -42,7 +42,7 @@
 
 | Stage | Count |
 |---|---|
-| Applied | 0 |
+| Applied | 4 |
 | Screening | 0 |
 | Interview | 0 |
 | Offer | 0 |
@@ -86,6 +86,7 @@
 | Date | Abraham | Sarah | Timetables Generated |
 |---|---|---|---|
 | May 14, 2026 | System setup | System setup | ✅ May 15 (both) |
+| May 15, 2026 | 4 job apps (Glacis, Verisian, Jibble, World Camps), LinkedIn msgs to Philipp G. + Tomás S. | — | — |
 
 ---
 
@@ -97,3 +98,5 @@
 - **Breaks are mandatory:** Both timetables include dedicated break blocks. Burnout helps nobody.
 - **Sarah cooks daily:** Lunch and dinner are baked into her schedule.
 - **Sundays are rest days** unless urgent pending tasks remain.
+
+| May 15, 2026 | ✅ Business email created (@creovine.com, DNS configured). Followed up Jean & James (no reply). Sarah sent Equity Bank email. 4 jobs applied (Glacis, Verisian, Jibble, World Camps). Riverly corporate banking endpoints created. Art book: publisher contact collected, concept research started. Sarah: Auth flow done, API integration blocked. HC Solutions/Sharpen Jobs missed — carried to May 16. | ✅ May 16 (both) |

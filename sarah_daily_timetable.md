@@ -1,12 +1,12 @@
 # Sarah's Daily Timetable
 
-**Date:** Thursday, May 15, 2026  
-**Generated:** May 14, 2026
+**Date:** Friday, May 16, 2026  
+**Generated:** May 15, 2026 (end of day)
 
 ---
 
 ## 🎯 Today's Focus
-> Ship the internet banking app frontend (50%). Send 20+ prospect messages. Edit & post videos.
+> Unblock frontend API integration. Send outreach messages once DNS propagates. Edit + post video.
 
 ---
 
@@ -15,74 +15,68 @@
 | Time | Task | Category | Priority |
 |---|---|---|---|
 | **8:00–9:00 AM** | Morning routine, plan day with Abraham | Personal | — |
-| **9:00–11:00 AM** | 🏦 **Internet Banking App — Frontend Development** | Product Mgmt Job | 🔴 HIGH |
-| | Target: Complete 50% of frontend implementation | | |
+| **9:00–11:00 AM** | 🏦 **Internet Banking App — Continue Frontend** | Product Mgmt Job | 🔴 HIGH |
+| | Focus: Debug API integration issues from yesterday. Abraham created new endpoints — test against those. | | |
 | **11:00–11:15 AM** | ☕ Short break | Break | — |
-| **11:15–12:30 PM** | Continue frontend work / polish | Product Mgmt Job | 🔴 HIGH |
-| **12:30–1:00 PM** | 🍳 **Cook lunch** | Personal | — |
-| **1:00–2:00 PM** | 🍽️ **BREAK — Lunch with Abraham** | Break | — |
-| **2:00–3:00 PM** | 📩 **Outreach: Send 10 DMs/emails to potential customers** | Creovine Outreach | 🔴 HIGH |
-| | Use Instagram DM + email. Target warm leads first. | | |
-| **3:00–3:15 PM** | ☕ Short break / stretch | Break | — |
-| **3:15–4:15 PM** | 📩 **Outreach: Send 10 more DMs/emails** (total 20+) | Creovine Outreach | 🔴 HIGH |
-| **4:15–5:15 PM** | 🎬 **Edit 2 videos** (post at least 1 today) | Content | 🟡 MEDIUM |
-| **5:15–5:30 PM** | 📹 **Record vlog snippet** — "Week in my life as a tech founder" | Content | 🟡 MEDIUM |
-| **5:30–5:45 PM** | 🍳 **Start dinner prep** | Personal | — |
-| **5:45–6:00 PM** | Send end-of-day update to Copilot | Admin | 🔴 HIGH |
-| **6:00–7:00 PM** | 🍽️ Dinner with Abraham | Personal | — |
-| **7:00 PM onward** | 📞 Family/friend calls, 🎬 **BREAK — Movie/relax with Abraham** | Personal | — |
+| **11:15–12:30 PM** | Continue frontend OR document API issues for Abraham | Product Mgmt Job | 🔴 HIGH |
+| **12:30–1:30 PM** | 🍽️ **BREAK — Lunch with Abraham** | Break | — |
+| **1:30–2:30 PM** | 🍳 Cook / meal prep | Personal | — |
+| **2:30–3:30 PM** | 📩 **Outreach: Send 20+ DMs/emails** (use creovine.com if DNS ready, else personal) | Creovine Outreach | 🔴 HIGH |
+| **3:30–4:30 PM** | 🎬 Edit video + post (at least 1) | Content | 🟡 MEDIUM |
+| **4:30–5:00 PM** | 📹 Record vlog snippet — day-in-life check-in | Content | 🟡 MEDIUM |
+| **5:00–5:30 PM** | 🍳 Start dinner prep | Personal | — |
+| **5:30–5:45 PM** | Send end-of-day update to Copilot | Admin | 🔴 HIGH |
+| **6:00 PM onward** | 🍽️ Dinner + 🎬 time with Abraham | Personal | — |
 
 ---
 
 ## 📋 Detailed Tasks
 
-### 🔴 1. Internet Corporate Banking App — Frontend
-- **Goal:** 50% implementation by end of day
-- Focus areas (suggested order):
-  1. Layout & navigation structure
-  2. Dashboard / landing screen
-  3. Core forms & data display components
-  4. Responsive styling pass
-- Use your design system if one exists
+### 🔴 1. Frontend — Fix API Integration
+- Yesterday: Only completed authentication flow. Blocked on API integration.
+- Abraham created new corporate banking endpoints yesterday — accounts, transactions, receipts, statements, approvals, reports, analytics, settings, support tickets
+- Today: Test endpoints. If still blocked, document exactly what's failing and share with Abraham.
 
 ### 🔴 2. Customer Outreach (20+ messages)
-- **Target:** At least 20 DMs, emails, or calls
-- **Priority targets from Brydg outreach list:**
-  - HC Solutions (Silverback Mall)
-  - Sharpen Jobs (23 KG 177 St)
-  - Right Seat, ITM Rwanda, Job in Rwanda
-- **Message template:**
-  > Hi [name], I'm Sarah from Creovine Labs. We build Lira — AI for customer support and hiring. We're talking to a few companies in Kigali to understand their operational pain points. Not selling — just learning. If there's a fit, we do a no-cost pilot. Would you be open to a quick chat?
-- **Channel priority:** Email → LinkedIn → Instagram DM (reinforcement)
+- **Wait until afternoon** — DNS may have propagated by then
+- If `abraham@creovine.com` / `sarah@creovine.com` still not ready, use personal email for now
+- **Priority targets:** HC Solutions, Sharpen Jobs, Right Seat, ITM Rwanda, Job in Rwanda
+- **Template:** Keep using the Creovine intro template from yesterday
 
-### 🟡 3. Content — Videos
-- Edit 2 videos (target: 1 posted today, 1 queued)
-- **Vlog snippet:** Record 2-3 minute check-ins at different points of your day — morning setup, mid-work, evening wind-down. Piece together over the week.
+### 🟡 3. Content
+- Edit at least 1 video (you had 2 queued yesterday)
+- Post 1 today
+- Record vlog snippet: 1-2 minute check-in
 
 ### 🍳 4. Cooking
-- Lunch: ~12:30 PM
-- Dinner: ~5:30 PM prep
+- Lunch with Abraham
+- Dinner prep
 
 ---
 
 ## 📊 Sarah's Weekly Overview
 
-| Area | Goal This Week | Today's Target |
+| Area | Goal This Week | Progress |
 |---|---|---|
-| Product Mgmt Job | Frontend 50% | ✅ |
-| Creovine Outreach | 40+ messages sent | 20 today |
-| Content | 3 videos posted | 1 posted, 2 edited |
-| Vlog | Start recording snippets | 1-2 clips |
-| Personal | Cook, run, read | Lunch + dinner |
+| Product Mgmt Job | Frontend 50% | Auth flow done, API integration blocked |
+| Creovine Outreach | 40+ messages | 0 sent (waiting on DNS) — push today |
+| Content | 2 videos | 0 edited yet — do today |
+| Vlog | Snippets | Record today |
+
+---
+
+## ⏳ Waiting On
+
+| What | Status |
+|---|---|
+| DNS propagation | Expected ready by today/tomorrow |
+| Abraham's new API endpoints | Created — test them today |
 
 ---
 
 ## 🧠 Reminders
-- **Outreach: Email first, then DM.** Don't spray Instagram — use it as follow-up/reinforcement.
-- **Frontend: Focus on shipping, not perfection.** 50% done is better than 10% perfect.
-- **Vlog: Don't overthink.** Raw, authentic clips > polished production. It's a "week in the life" — real is better.
-- **Breaks are mandatory.** You're cooking twice, editing videos, coding, AND doing outreach. Pace yourself.
+- **Weekend tomorrow** — today is the last push for the week's targets
+- **Vlog: don't overthink.** A 1-minute real clip is better than nothing.
+- **Breaks are mandatory.**
 
----
-
-> 📝 **End of Day:** Send your update to Copilot. I'll generate tomorrow's timetable.
+> 📝 **End of Day:** Send your update.

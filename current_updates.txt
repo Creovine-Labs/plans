@@ -1,17 +1,37 @@
-Updates.
-
-We went to equity bank, they said we should reach out to them via email first.. info@equitybank.co.rw and if no response after a couple of days.. I should call +250788190000
-
-When I called Pamela from Zipeline, she said I should reach out to Jean. We had a google meeting with Jean.. he said will refer us to his developers.. so we can have a better or deeper conversation with them and see where it goes.. he is yet to give me a feedback as he said he will give me a response yesterday. I will follow up on it tomorrow morning
-
-James is also yet to give me a feed back.. this is our last message:
-[08/05/2026, 4:04:39 PM] Yerins Abraham: Hello James, hope you’re doing great! Thanks once again for the link up. I sent Martine an email yesterday, haven’t gotten a reply yet though.
-[08/05/2026, 5:00:44 PM] James Naman Jasiri: Hey  Abraham
-[08/05/2026, 5:01:16 PM] James Naman Jasiri: I will follow up with her next week.
-[08/05/2026, 5:25:13 PM] Yerins Abraham: Thank you 😊
+Todays update
 
 
+Abraham: Okay, so the... I have... Today has ended, and here is my review for today. The first thing is I started by trying to get an email, trying to send an email. I did, so we decided that instead of like using my normal Gmail, I should use a business mail. And you said I could, I can continue using my Gmail for now, but I did actually for the equity bank, but I will still send them another email using my business account, probably in a day or two. But another thing that we accomplished, which was not in the schedule, was creating a business email for me and Sarah. And then another thing we did was I already followed up on the zipline. I followed up on James also. The day has ended and I never got a feedback from them. They didn't reply my text. Equity bank was sent, a message was sent, but that was sent by Sarah, not me. But I will, like I said, I will send with my actual email again with business email once everything propagates and everything is working and it won't, I, I can verify that it's not going to go to spam. I worked on Rivally. The updates I will put below. And then I got four job searches. I got four jobs. I think I have already uploaded it. I applied for four jobs. I did get four jobs. I applied for four jobs. I've already updated it, but you can confirm. I don't know if you need to update any Excel document or stores. For my art book, what I did was... I went online to get an idea for my art book, but I can't really, I haven't really figured out what exactly um I want to do, like the kind of book I want to do. I did talk to a publisher in Kigali and they are open to collaborating with me whenever I'm ready. I got the person's number, but I have not sent the person any message. Also, one of the reasons why I've not sent the person any message is because I don't have anything concrete to do. I already have artworks that I exist, but I think my plan is whatever book I want to do, the art book I want to do, I will need the story to be, like, I need the story to be something that is very creative and one of a kind. And I haven't really had that vision for what I want to do. I just know that I want to do an art book. So I went on Pinterest, I saved some images, but then I also like on my social media, Instagram, I asked my followers um on a, on a story post that um I'm thinking of, I feel like drawing something, what do they suggest? And most of them suggest different things, but um I haven't really found something that I need right now. Um I did work for Lykluk, uh but it was more of like just helping them, um helping the back end get some, um aligning the front end with the back end. Um there was no major work. It was just making sure that the, from the back end aligns with what the front end has. Um And then there was, there's no work for flux right now, because I am not necessarily in control of that for now, so there's no work for that. You said research contacts for HE solutions and Sharping jobs. I never did that. I never reached out to the bridge reach out. I never did that. So I don't know if that will be done tomorrow or maybe it's part of the morning priorities, but I spent the day doing the other stuff. Yeah, I think that's the only thing that I did not do today. So I don't know if there's anything I missed, you can let me know so I can, we can promote, push it to tomorrow, but you can also let me know that I, it's, it's because of I missed it, maybe like put a tag on it that it's because of I was supposed to do it or stuff. So I'm always aware of the things that I'm not doing, but also like I'm doing what is needed to do, but that's my update.
 
-We are currently reaching out to people on instagram and some emails but we are all over the place, no real strategy yet.
+Created abraham@creovine.com and sarah@creovine.com. Waiting to send emails in a day or two.
+DNS is completed:
+Record	Status
+5 MX (ASPMX)	✅
+DKIM google._domainkey	✅ Authenticating
+SPF @	✅
+DMARC _dmarc	✅
+A Record + CNAMEs	✅ Untouched
+Old default._domainkey	✅ Gone
 
-I need to get some info on Rivalry from the product manager, and a call with my colleague on what exactly I am tasked to do next.
+
+Today's Job Search: 4 Applications Sent
+#	Company	Role	Salary
+1	Glacis	Founding Software Engineer	$40K–$120K + equity
+2	Verisian	Full Stack Engineer	Not listed
+3	Jibble	Senior Back-End Developer	$48K–$60K
+4	World Camps	Full-Stack Tech Lead	Not listed
+
+Outreach	Status
+LinkedIn message to Philipp Gutheim (Glacis)	Sent
+LinkedIn message to Tomás Sabat (Verisian)	Sent
+
+For Rivalry: I created new corporate endpoints for internet banking:
+* Corporate accounts, transactions, receipts, statements
+* Approvals flow
+* Reports
+* Analytics
+* Settings
+* Support tickets/comments/stats.
+
+
+Sarah: Okay, so today I think actually did today, I worked on the front end for the internet corporate banking application, but I only was able to, I was only able to work on the authentication flow, right? I couldn't complete the rest because I was still having issues implementing the APIs for the front end, like integrating with the APIs at the backend actually created. So, yeah, I had a blocker. I was able to create documents that I needed to send to the mobile engineer for bugs that needs to be fixed on the mobile banking app. Yeah, that was pretty much it. I couldn't also send emails today because we're still waiting for DNS propagation on the email domain that we purchased. So that was pretty much what I did today.
